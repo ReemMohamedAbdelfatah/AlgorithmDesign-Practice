@@ -19,5 +19,8 @@
   "homepage": "https://github.com/ReemMohamedAbdelfatah/AlgorithmDesign-Practice#readme",
   "devDependencies": {
     "mocha": "^10.1.0"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
   }
 }
